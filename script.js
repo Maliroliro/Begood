@@ -27,6 +27,6 @@ function irParaExercicio(sentimento) {
 }
 
 function voltarInicio() {
-  window.location.href = "title.html";
+  window.location.href = "index.html";
 }
 atualizarSaudacao();
